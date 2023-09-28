@@ -1,0 +1,10 @@
+body {
+  width: 600px;
+  margin: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: beige;
+}
+button {
+  color: blueviolet;
+  background-color: violet;
+}
